@@ -1,1 +1,5 @@
 # jellyWM
+
+- GCC
+- Cmake
+- gdb
